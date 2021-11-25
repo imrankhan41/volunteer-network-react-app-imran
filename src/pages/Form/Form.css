@@ -1,0 +1,31 @@
+.register-form{
+    border: 1px solid rgb(197, 188, 188);
+    width:50%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.input-form{
+    border:0px;
+    border-bottom: 1px solid black;
+    width: 20rem;
+    height: 2rem;
+    margin: 5px 10px;
+}
+.inputform{
+    background-color:rgb(67, 175, 67);
+    width: 20rem;
+    color:white;
+    height: 2rem;
+    border: 0px;
+    margin-bottom: 10px;
+}
+.img-size{
+    height: 70px;
+}
